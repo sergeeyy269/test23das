@@ -6,7 +6,7 @@ import json
 import asyncio
 import os
 from datetime import datetime
-
+from background import keep_alive
 # Настройки
 TOKEN = "7809565448:AAFsfuInMk7bjzIGQ52nZTjjFgaFzYP5AA4"
 ADMIN_ID = 359505266  # Ваш ID администратора
@@ -268,6 +268,6 @@ dp.message.register(add_film, Command("addfilm"))
 # Запуск
 async def main():
     await dp.start_polling(bot)
-
+keep_alive()
 if __name__ == "__main__":
     asyncio.run(main())
