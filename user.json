@@ -1,0 +1,44 @@
+{
+    "7889695708": {
+        "id": 7889695708,
+        "full_name": "Егор",
+        "username": "egorich99",
+        "first_name": "Егор",
+        "last_name": null,
+        "language_code": "ru",
+        "join_date": "2025-02-15 20:51:22"
+    },
+    "359505266": {
+        "id": 359505266,
+        "full_name": "Sanchik",
+        "username": "sanchik77",
+        "first_name": "Sanchik",
+        "last_name": null,
+        "language_code": "ru",
+        "join_date": "2025-02-15 20:55:29",
+        "confirmed": true,
+        "attempted_continue": true,
+        "code_attempts": 2
+    },
+    "7002244661": {
+        "id": 7002244661,
+        "full_name": "Cheslov Kazinsky",
+        "username": "cheslov77",
+        "first_name": "Cheslov",
+        "last_name": "Kazinsky",
+        "language_code": "ru",
+        "join_date": "2025-02-15 21:26:16"
+    },
+    "7633101402": {
+        "id": 7633101402,
+        "full_name": "TIK TOK PARTNERS 🌎",
+        "username": "tiktok_partners",
+        "first_name": "TIK TOK PARTNERS 🌎",
+        "last_name": null,
+        "language_code": "ru",
+        "join_date": "2025-02-16 13:38:34",
+        "attempted_continue": true,
+        "confirmed": true,
+        "code_attempts": 1
+    }
+}
