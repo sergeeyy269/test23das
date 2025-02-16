@@ -11,7 +11,7 @@ from background import keep_alive
 TOKEN = "7809565448:AAFsfuInMk7bjzIGQ52nZTjjFgaFzYP5AA4"
 ADMIN_ID = 359505266  # Ваш ID администратора
 USER_DATA_FILE = "user.json"
-
+#dsdasdas
 # Загружаем данные о пользователях из файла (если файл существует)
 def load_user_data():
     if os.path.exists(USER_DATA_FILE) and os.path.getsize(USER_DATA_FILE) > 0:
